@@ -1,2 +1,4 @@
-# MDS576
-MDS 576 Youtube Projecct
+# Purpose
+YouTube is the largest free video sharing website in the world, that’s a fact. On YouTube people all around the world can watch and create videos for others; it’s a great place to discover new things, learn and get entertainment. The main functions of YouTube are for users to search for and watch videos, create a personal channel, upload videos to their channel, Like/Comment/share other YouTube videos, users can subscribe/follow other YouTube channels and users can create playlists to organize videos and group videos together. Some videos on YouTube get so popular they end up “trending” and become the hottest/most watched video of the day on their website.  YouTube reaches millions of viewers every day and viewers go to YouTube for their wide variety of videos. 
+
+This project was completed in 8 weeks and goes over YouTube’s database for trending videos in the mid 2017 to 2018. The database reveals a video title, thumb link, published information, comment section, likes, channel and many more. The paper will first go over the database itself then talk about how we cleaned the database to be used for this project, afterwards we’ll discuss about the models and lastly the results of the project. 
